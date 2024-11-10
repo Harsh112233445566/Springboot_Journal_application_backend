@@ -1,4 +1,4 @@
-Here’s an updated `README.md` file with MongoDB Atlas as the database.
+
 
 ```markdown
 # Journal Entry Backend
